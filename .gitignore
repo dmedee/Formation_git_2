@@ -61,3 +61,6 @@ rsconnect/
 
 #ignorer dossier data
 data/
+
+# ignore python
+* .py
